@@ -1,0 +1,33 @@
+.sait-nav .link {
+  color: var(--title-text-color);
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6;
+  text-align: center;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+
+.portfolio-nav .link:hover,
+.portfolio-nav .link:focus {
+  color: var(--primary-bg-color);
+  background-color: var(--accent-color);
+}
+.section-portfolio .section-title {
+  color: var(--title-text-color);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  text-decoration: none;
+}
+
+.section-title-list {
+  color: var(--primary-text-color);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.8;
+  text-decoration: none;
+}
