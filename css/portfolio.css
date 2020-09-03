@@ -1,3 +1,7 @@
+/*линия портфолио*/
+.line {
+  border: 1px solid #ececec;
+}
 .sait-nav .link {
   color: var(--title-text-color);
 
